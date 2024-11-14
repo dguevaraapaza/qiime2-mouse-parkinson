@@ -1,1 +1,6 @@
 data/
+demultiplexed_seqs/
+output/
+denoised/
+taxonomic_profile/
+tree/
